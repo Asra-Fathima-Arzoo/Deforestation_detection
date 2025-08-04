@@ -9,3 +9,6 @@ Outcomes:
 Heatmap of fire-triggered deforestation zones
 Year-wise forest loss statistics
 Alerts for high-risk areas
+
+Link for best_fire_detection_model.pkl: https://drive.google.com/file/d/1SSEuLMgItyhTG_Maj2R-ZxHzpharLKPC/view?usp=drive_link
+
